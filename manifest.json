@@ -1,16 +1,13 @@
 {
-  "name": "BUGO-ON",
-  "short_name": "BUGO-ON",
-  "description": "BUGO-ON 수행평가 캘린더",
+  "name": "BUGO",
+  "short_name": "BUGO",
   "start_url": "/BUGO-ON/",
-  "scope": "/BUGO-ON/",
   "display": "standalone",
-  "background_color": "#f4f6fb",
-  "theme_color": "#3563e9",
-  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#7EC8FF",
   "icons": [
     {
-      "src": "icon-512.png",
+      "src": "/BUGO-ON/icon.png",
       "sizes": "512x512",
       "type": "image/png"
     }
